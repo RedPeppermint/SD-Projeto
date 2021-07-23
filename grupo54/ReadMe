@@ -1,0 +1,17 @@
+GRUPO 54
+Sara Queimado 52806
+Diogo Fernandes 52802
+Eduardo Salvadinha 52768
+
+
+LIMITAÇÕES NA IMPLEMENTAÇÃO
+
+    Não encontrámos limitações
+
+
+CORRER:
+
+    make  cria todos os ficheiros, depois para correr os comandos são make serverX para o servidor, em que X é um número de 1 a 3, e 
+    make client para os clientes
+
+    make clean  limpa os executáveis e .o criados com o comando make, e os logs do valgrind
