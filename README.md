@@ -1,0 +1,1 @@
+Este projeto foi efetuado no âmbito da cadeira de Sistemas Distribuídos. Nesta pasta, encontra-se a versão final da parte 4 do projeto, e o enunciado de cada uma das 4 partes.
